@@ -1,0 +1,6 @@
+id;actor_id;action;entity_type;entity_id;details;created_at
+9148c286-1722-4bb0-834d-8b0c251ae994;df25f4c3-79b8-40d5-b415-f9ae639ec07c;user.created;user;;"{""email"":""alice@skillbridge.edu""}";2027-09-08 10:05:32.414818+00
+57487fa7-a0dc-4be7-8f39-1ed552aeee40;df25f4c3-79b8-40d5-b415-f9ae639ec07c;role.approved;role_request;;"{""role"":""student"",""user"":""Bob Williams""}";2027-09-08 10:05:32.571597+00
+f4996caf-2017-4960-aa7a-eefa774c5256;df25f4c3-79b8-40d5-b415-f9ae639ec07c;company.created;company;;"{""name"":""TechCorp Solutions""}";2027-09-08 10:05:32.778261+00
+ac18e63e-0a0f-4e77-b16e-fb80b9e65b5e;df25f4c3-79b8-40d5-b415-f9ae639ec07c;drive.created;placement_drive;;"{""title"":""TechCorp Campus Drive 2026""}";2027-09-08 10:05:32.975166+00
+6bf9bc24-8dba-43a4-994c-f31958e54cfd;df25f4c3-79b8-40d5-b415-f9ae639ec07c;assessment.created;assessment;;"{""title"":""SQL Fundamentals""}";2027-09-08 10:05:33.135072+00

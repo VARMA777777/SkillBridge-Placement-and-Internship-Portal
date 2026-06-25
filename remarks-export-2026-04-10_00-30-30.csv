@@ -1,0 +1,6 @@
+id;student_id;faculty_id;text;category;rating;created_at
+c5062a59-0259-4a25-964c-26b57809fb33;111a6cc6-b0b7-45d8-a328-f2ed1082c1ce;df25f4c3-79b8-40d5-b415-f9ae639ec07c;Excellent problem-solving skills. Shows great initiative in projects.;Performance;Excellent;2027-09-08 10:05:30.634849+00
+cf836b8d-897b-4a12-a937-7c981d8bf8c6;acdf69b8-5cae-4352-bcfa-4a52016ba58b;df25f4c3-79b8-40d5-b415-f9ae639ec07c;Strong analytical abilities. Needs to improve communication skills.;Skills;Good;2027-09-08 10:05:30.798069+00
+8e148e87-d4af-4168-98fb-17602564720e;8b9e274c-c5b2-4b45-89fe-eb453bedd00e;df25f4c3-79b8-40d5-b415-f9ae639ec07c;Creative designer but needs to focus on attendance.;Attendance;Average;2027-09-08 10:05:30.963682+00
+ab59d0a6-d1f1-4ea7-bbb4-c9111632f48d;a86fc937-e064-40e0-b1f8-786ea3d4204a;df25f4c3-79b8-40d5-b415-f9ae639ec07c;Very dedicated. Infrastructure knowledge is impressive for this level.;Performance;Excellent;2027-09-08 10:05:31.129495+00
+8fba52bd-957e-4cf4-8574-1f5c9e48858c;fd4dec7a-1567-4612-bda6-dbe40fa23bff;df25f4c3-79b8-40d5-b415-f9ae639ec07c;Shows exceptional aptitude for ML. Encourage research opportunities.;Academic;Excellent;2027-09-08 10:05:31.316734+00

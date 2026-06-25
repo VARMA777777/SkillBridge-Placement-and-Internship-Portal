@@ -1,0 +1,11 @@
+id;user_id;full_name;email;phone;department;year;roll_no;avatar_url;target_role;created_at;updated_at;username
+78229cb9-cea5-4835-8247-462770466e32;111a6cc6-b0b7-45d8-a328-f2ed1082c1ce;Alice Johnson;alice@skillbridge.edu;9876543210;CSE;3rd Year;CSE2023001;;Full Stack Developer;2027-09-08 09:58:18.64498+00;2026-03-08 10:41:34.224053+00;alice
+4be5980b-eee6-466d-9390-7f6b1b170a47;acdf69b8-5cae-4352-bcfa-4a52016ba58b;Bob Williams;bob@skillbridge.edu;9876543211;ECE;4th Year;ECE2022015;;Data Scientist;2027-09-08 09:58:19.699096+00;2026-03-08 10:41:34.224053+00;bob
+a974cac0-dd78-48e9-8d97-87d48c9ffe22;8b9e274c-c5b2-4b45-89fe-eb453bedd00e;Carol Davis;carol@skillbridge.edu;9876543212;CSE;3rd Year;CSE2023042;;Frontend Developer;2027-09-08 09:58:20.461394+00;2026-03-08 10:41:34.224053+00;carol
+bfc761c9-9266-4203-b7cb-b8d9c3ba32e3;a86fc937-e064-40e0-b1f8-786ea3d4204a;David Brown;david@skillbridge.edu;9876543213;ME;4th Year;ME2022008;;DevOps Engineer;2027-09-08 09:58:21.066462+00;2026-03-08 10:41:34.224053+00;david
+d7b5ef43-e934-43d4-8f09-15fede3f852e;fd4dec7a-1567-4612-bda6-dbe40fa23bff;Emma Wilson;emma@skillbridge.edu;9876543214;CSE;2nd Year;CSE2024011;;ML Engineer;2027-09-08 09:58:21.619663+00;2026-03-08 10:41:34.224053+00;emma
+65f33543-702e-4940-a78e-4310ae15b8d1;df25f4c3-79b8-40d5-b415-f9ae639ec07c;Steve Rogers;steve1997@gmail.com;9876500000;Admin;;;;;2027-09-08 09:35:25.683694+00;2026-03-08 10:41:34.224053+00;steve
+ac1caeb3-e9a4-479b-a5e3-a297018e22c9;335b20e9-aebf-42c1-9c07-06bd6d9748cd;Alex Student;student@skillbridge.edu;;Computer Science;3rd Year;CS2023001;;;2027-09-08 10:19:01.960681+00;2026-03-08 10:41:34.224053+00;alex_student
+fe3765f9-2a86-4698-b3e9-35ce39eb6e31;6ae1fba2-5466-4ec3-832f-8823d549f7fe;Dr. Sarah Faculty;faculty@skillbridge.edu;;Computer Science;;;;;2027-09-08 10:19:02.965191+00;2026-03-08 10:41:34.224053+00;sarah_faculty
+50dc7fa8-8b87-4b0c-b72a-90db9499276f;c4c6de99-2ad9-4ba0-83be-3c2720b65f7a;Mike Admin;admin@skillbridge.edu;;Administration;;;;;2027-09-08 10:19:03.857518+00;2026-03-08 10:41:34.224053+00;mike_admin
+47a1c151-f970-4167-9cef-284b0512b918;034cae20-88b6-4cb3-b0d7-b1200adde8d4;Prabhas Raju;prabhas2015@gmail.com;;;;;;;2026-04-09 16:44:43.812977+00;2026-04-09 16:44:43.812977+00;prabhas

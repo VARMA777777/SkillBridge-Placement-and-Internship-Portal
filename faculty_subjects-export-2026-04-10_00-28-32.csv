@@ -1,0 +1,6 @@
+id;faculty_id;subject_name;subject_code;department;semester;created_at
+4505145d-60ff-4b9e-af9c-002e1faf32a5;df25f4c3-79b8-40d5-b415-f9ae639ec07c;Database Management Systems;CS301;CSE;5;2027-09-08 10:05:28.956197+00
+de4109f2-e1f6-47da-aa78-71031f7bbad1;df25f4c3-79b8-40d5-b415-f9ae639ec07c;Data Structures & Algorithms;CS201;CSE;3;2027-09-08 10:05:29.128093+00
+4e7981e1-4032-4f3f-9b48-1c79acdea8d7;df25f4c3-79b8-40d5-b415-f9ae639ec07c;Operating Systems;CS302;CSE;5;2027-09-08 10:05:29.278424+00
+8c6a951d-3115-4ac3-bc46-188b4bd83402;df25f4c3-79b8-40d5-b415-f9ae639ec07c;Computer Networks;CS401;CSE;7;2027-09-08 10:05:29.437542+00
+fd81e586-0159-4ad7-bfe9-2089ebfcb4b7;df25f4c3-79b8-40d5-b415-f9ae639ec07c;Machine Learning;CS501;CSE;7;2027-09-08 10:05:29.595024+00

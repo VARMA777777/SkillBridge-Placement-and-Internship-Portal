@@ -1,0 +1,36 @@
+id;user_id;title;message;type;read;link;created_at
+8c215a58-2bb0-4e23-9ed5-082e09a81a2a;111a6cc6-b0b7-45d8-a328-f2ed1082c1ce;Role Approved;Your student role has been approved. Welcome to SkillBridge!;success;false;;2027-09-08 10:05:31.566231+00
+cf6beaff-ef8c-42d6-86a7-027c7ce4942e;acdf69b8-5cae-4352-bcfa-4a52016ba58b;New Assessment Available;Python Basics assessment is now available. Take it before April 1st.;info;false;/student/assessments;2027-09-08 10:05:31.729535+00
+9a078a5b-1d54-4f91-927e-0bba56d49e80;8b9e274c-c5b2-4b45-89fe-eb453bedd00e;Attendance Warning;Your attendance is below 80%. Please improve to stay eligible for placements.;warning;false;;2027-09-08 10:05:31.910728+00
+6bb66a34-1d0a-4097-98bd-964ab92ef452;a86fc937-e064-40e0-b1f8-786ea3d4204a;Placement Update;Congratulations! You've been selected by CloudNine Systems.;success;false;;2027-09-08 10:05:32.070542+00
+52ed5a0e-515e-429d-b96d-ca7732309bf8;fd4dec7a-1567-4612-bda6-dbe40fa23bff;New Company Added;InnovateTech Labs has been added. Check eligibility for their AI roles.;info;false;/student/dashboard;2027-09-08 10:05:32.242395+00
+63687b5d-28b5-4329-a5ff-17035a63a6c9;111a6cc6-b0b7-45d8-a328-f2ed1082c1ce;Assessment Reminder;You have a pending Python assessment due tomorrow.;warning;false;;2027-09-08 10:14:15.991282+00
+8a962614-565c-4bae-b919-d422c49c0d0b;111a6cc6-b0b7-45d8-a328-f2ed1082c1ce;Skill Added;React.js has been successfully added to your skill catalog.;success;false;;2027-09-08 09:24:15.991282+00
+96115fd8-8d9f-476b-8b6c-feffaba19ad0;111a6cc6-b0b7-45d8-a328-f2ed1082c1ce;Readiness Updated;Your placement readiness score has been updated to 78%.;info;false;;2027-09-08 07:24:15.991282+00
+c63cabcd-63e0-4ddc-8a6a-4a3c5ec4c962;111a6cc6-b0b7-45d8-a328-f2ed1082c1ce;Faculty Remark;"Prof. Steve Rogers added a remark: ""Excellent problem-solving skills. Shows great initiative in projects.""";info;false;;2027-09-07 10:24:15.991282+00
+304d5011-fd17-4f39-b5d8-256fe9a870e2;acdf69b8-5cae-4352-bcfa-4a52016ba58b;Assessment Completed;You scored 72% on the SQL Basics assessment.;success;false;;2027-09-08 09:54:15.991282+00
+b3cc440c-1092-49de-b2cc-98b8debceeb0;acdf69b8-5cae-4352-bcfa-4a52016ba58b;New Assessment Available;A new assessment for Data Structures & Algorithms is now available.;info;false;;2027-09-08 08:24:15.991282+00
+008f78ba-a5fe-42cf-8f36-1996ebae78d6;acdf69b8-5cae-4352-bcfa-4a52016ba58b;Faculty Remark;"Prof. Steve Rogers added a remark: ""Strong analytical abilities. Needs to improve communication skills.""";warning;false;;2027-09-07 10:24:15.991282+00
+b55f24bd-6651-4e9f-a715-11b0e4ca5d97;8b9e274c-c5b2-4b45-89fe-eb453bedd00e;Placement Drive;TCS is visiting campus on March 15. Check eligibility criteria.;info;false;;2027-09-08 09:39:15.991282+00
+aed73267-8216-4d36-839c-2ca29a4f8644;8b9e274c-c5b2-4b45-89fe-eb453bedd00e;Attendance Warning;Your attendance has dropped below 75%. Please improve.;warning;false;;2027-09-08 05:24:15.991282+00
+8969f994-e91c-4012-b92e-411a10df5312;8b9e274c-c5b2-4b45-89fe-eb453bedd00e;Faculty Remark;"Prof. Steve Rogers added a remark: ""Creative designer but needs to focus on attendance.""";warning;false;;2027-09-06 10:24:15.991282+00
+3ca4d7cc-1d8b-4aef-9ab4-1afb8dcf2c20;a86fc937-e064-40e0-b1f8-786ea3d4204a;Skill Added;Docker has been successfully added to your skill catalog.;success;false;;2027-09-08 10:04:15.991282+00
+e4a4950e-39b6-4fc3-8e74-f05f7c791701;a86fc937-e064-40e0-b1f8-786ea3d4204a;Assessment Reminder;System Design assessment starts in 2 days.;warning;false;;2027-09-08 06:24:15.991282+00
+1ac47563-3e5b-4f86-8188-a129cf8b2d49;a86fc937-e064-40e0-b1f8-786ea3d4204a;Faculty Remark;"Prof. Steve Rogers added a remark: ""Very dedicated. Infrastructure knowledge is impressive for this level.""";info;false;;2027-09-07 10:24:15.991282+00
+02f0efb0-67c1-413e-9518-903d062940d3;fd4dec7a-1567-4612-bda6-dbe40fa23bff;Assessment Completed;You scored 91% on the React Fundamentals assessment. Great job!;success;false;;2027-09-08 10:09:15.991282+00
+5be0bdf7-896b-478c-a440-681fa3cefb82;fd4dec7a-1567-4612-bda6-dbe40fa23bff;Readiness Updated;Your placement readiness score has been updated to 85%.;info;false;;2027-09-08 04:24:15.991282+00
+3b35f728-cf1e-4603-9af8-3fa7f29b0f08;fd4dec7a-1567-4612-bda6-dbe40fa23bff;Faculty Remark;"Prof. Steve Rogers added a remark: ""Shows exceptional aptitude for ML. Encourage research opportunities.""";info;false;;2027-09-07 10:24:15.991282+00
+9c8ad24d-a253-48dd-ad49-b856ace8000f;df25f4c3-79b8-40d5-b415-f9ae639ec07c;Role Request;New role request pending approval from a registered user.;warning;false;;2027-09-08 10:04:15.991282+00
+ed2719ad-8ebd-4859-a2f7-affccb9f450c;df25f4c3-79b8-40d5-b415-f9ae639ec07c;Placement Report;Monthly placement report for February is ready for download.;info;false;;2027-09-08 08:24:15.991282+00
+5f4fbaa6-020d-429e-abed-475ed65e1c79;df25f4c3-79b8-40d5-b415-f9ae639ec07c;At-Risk Alert;Carol Davis attendance has dropped below 75%.;warning;false;;2027-09-08 05:24:15.991282+00
+f6988377-d118-40a4-a258-c6af66ed7c79;df25f4c3-79b8-40d5-b415-f9ae639ec07c;System Update;New assessment module deployed. 5 new assessments available.;success;false;;2027-09-07 10:24:15.991282+00
+c602ad54-15a4-4f24-85ee-cd42f8b13cd9;335b20e9-aebf-42c1-9c07-06bd6d9748cd;Welcome!;Welcome to SkillBridge. Start by adding your skills and taking an assessment.;info;true;;2027-09-08 10:19:15.991282+00
+1bc53c44-19a4-4fbb-9fd2-ef8aec90f4bf;335b20e9-aebf-42c1-9c07-06bd6d9748cd;New Assessment Available;JavaScript Fundamentals assessment is now available.;info;true;;2027-09-08 08:24:15.991282+00
+8cfc7fff-e8a3-4794-a14c-edec4cd91eac;335b20e9-aebf-42c1-9c07-06bd6d9748cd;Placement Drive;Infosys campus drive registrations are open.;info;true;;2027-09-07 10:24:15.991282+00
+2d4f1fdc-1251-411b-86e6-441dffe990f4;c4c6de99-2ad9-4ba0-83be-3c2720b65f7a;New Company Added;Google has been added to the company database.;success;true;;2027-09-08 10:09:15.991282+00
+64a6f653-a55c-4e53-a8c2-4236b8387692;c4c6de99-2ad9-4ba0-83be-3c2720b65f7a;Placement Drive Scheduled;TCS campus drive scheduled for March 15.;info;true;;2027-09-08 09:24:15.991282+00
+2c35819b-92e1-42f7-ba50-8379473f4fcf;c4c6de99-2ad9-4ba0-83be-3c2720b65f7a;Role Request;2 new role requests pending your approval.;warning;true;;2027-09-08 06:24:15.991282+00
+b4aef89a-a04c-48f2-8096-97647b1d41d2;c4c6de99-2ad9-4ba0-83be-3c2720b65f7a;Report Ready;Q1 Placement Analytics report is ready for download.;info;true;;2027-09-07 10:24:15.991282+00
+a9e71f53-2625-4988-8a8d-b0d7c0e546c1;6ae1fba2-5466-4ec3-832f-8823d549f7fe;New Student Enrolled;3 new students have been assigned to your mentoring list.;info;true;;2027-09-08 09:54:15.991282+00
+fdc1e007-8111-4f33-9b52-5bb23fac2ac7;6ae1fba2-5466-4ec3-832f-8823d549f7fe;At-Risk Alert;Carol Davis attendance has dropped below 75%.;warning;true;;2027-09-08 07:24:15.991282+00
+7eec039f-2017-495c-b14f-583e8f76398f;6ae1fba2-5466-4ec3-832f-8823d549f7fe;Assessment Results;5 students completed the Python assessment. Average score: 74%.;success;true;;2027-09-07 10:24:15.991282+00

@@ -1,0 +1,8 @@
+id;title;category;duration_minutes;questions_count;passing_score;topics;status;created_by;created_at
+2a74b1ce-85bc-4b20-9c75-dc19b157afb4;General Knowledge;Aptitude;30;5;60;;available;c4c6de99-2ad9-4ba0-83be-3c2720b65f7a;2026-03-08 17:53:23.196936+00
+55b396fd-6cbf-4a2d-939b-7d3ed4748b79;SQL Fundamentals;Database;30;8;60;"[""SQL"",""Joins"",""Queries""]";available;df25f4c3-79b8-40d5-b415-f9ae639ec07c;2026-03-08 10:05:21.453617+00
+e341cdb1-ebcd-47df-bcae-a5ffdb141976;Python Basics;Programming;25;8;60;"[""Python"",""Data Types"",""Functions""]";available;df25f4c3-79b8-40d5-b415-f9ae639ec07c;2026-03-08 10:05:21.635467+00
+22415ca0-4b54-4382-80bf-bdc5dea20a89;React Essentials;Frontend;30;7;65;"[""React"",""Hooks"",""Components""]";available;df25f4c3-79b8-40d5-b415-f9ae639ec07c;2026-03-08 10:05:21.809298+00
+1d328e83-474a-46fd-89b7-d0ba739b5b7f;Data Structures;CS Fundamentals;45;7;70;"[""Arrays"",""Trees"",""Graphs""]";available;df25f4c3-79b8-40d5-b415-f9ae639ec07c;2026-03-08 10:05:21.98833+00
+a284b504-1b13-4014-8beb-7114f761db6f;System Design Basics;Architecture;40;7;60;"[""Scalability"",""Databases"",""Caching""]";available;df25f4c3-79b8-40d5-b415-f9ae639ec07c;2026-03-08 10:05:22.143259+00
+b8ac5205-2e49-4e6b-990b-d548b9b9214a;Video Gaming;Other;30;6;60;"[""Recent news related to graphics cards etc""]";available;c4c6de99-2ad9-4ba0-83be-3c2720b65f7a;2026-04-09 16:19:10.616586+00

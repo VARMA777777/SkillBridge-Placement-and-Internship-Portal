@@ -1,0 +1,7 @@
+id;user_id;title;description;tech_stack;project_url;github_url;created_at
+6783dbc2-253a-4264-93f1-38839d98f974;111a6cc6-b0b7-45d8-a328-f2ed1082c1ce;E-Commerce Platform;Full-stack e-commerce app with payment integration;"[""React"",""Node.js"",""PostgreSQL""]";;https://github.com/alice/ecommerce;2027-09-08 10:05:17.660158+00
+bff6299b-8e2d-4a82-aed2-90a1cb126d7a;111a6cc6-b0b7-45d8-a328-f2ed1082c1ce;Chat Application;Real-time chat app with WebSocket support;"[""React"",""Socket.io"",""Express""]";;https://github.com/alice/chatapp;2027-09-08 10:05:17.873523+00
+c7e27d8d-1023-42de-a13f-cb5485e47b1a;acdf69b8-5cae-4352-bcfa-4a52016ba58b;Stock Price Predictor;ML model to predict stock prices using LSTM;"[""Python"",""TensorFlow"",""Pandas""]";;https://github.com/bob/stock-pred;2027-09-08 10:05:18.033203+00
+8c325798-89a7-448f-970e-76a6e169302e;8b9e274c-c5b2-4b45-89fe-eb453bedd00e;Portfolio Website;Responsive portfolio with animations;"[""HTML"",""CSS"",""JavaScript""]";;https://github.com/carol/portfolio;2027-09-08 10:05:18.232517+00
+7412b65d-ccc8-40d4-91ad-94626ab7ce1b;a86fc937-e064-40e0-b1f8-786ea3d4204a;CI/CD Pipeline Builder;Automated deployment pipeline tool;"[""Go"",""Docker"",""Kubernetes""]";;https://github.com/david/pipeline;2027-09-08 10:05:18.426998+00
+a343560c-5804-45f7-83c0-7a11db55107d;fd4dec7a-1567-4612-bda6-dbe40fa23bff;Image Classifier;CNN-based image classification system;"[""Python"",""PyTorch"",""OpenCV""]";;https://github.com/emma/imgclassifier;2027-09-08 10:05:18.608431+00

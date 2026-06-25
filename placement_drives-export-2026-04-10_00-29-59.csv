@@ -1,0 +1,6 @@
+id;company_id;title;description;drive_date;eligibility_criteria;status;created_by;created_at
+f88a8b2d-c65f-4c92-bc4f-f120a4759f4c;d7f8bf99-ddb9-4a91-b705-146c6c25d32e;TechCorp Campus Drive 2026;Full stack developer positions;2027-10-15;{};active;df25f4c3-79b8-40d5-b415-f9ae639ec07c;2027-09-08 10:05:19.676247+00
+3de0f06d-c685-445d-a66f-828768315f10;2083d00d-efc7-44d7-97e1-2517c883b58a;DataVerse Hiring Sprint;Data analyst and scientist roles;2027-10-20;{};upcoming;df25f4c3-79b8-40d5-b415-f9ae639ec07c;2027-09-08 10:05:19.836782+00
+6e9ffb2c-eb9c-4528-969a-35332e2a9171;c5ca88be-fcee-44d8-9f34-f7e7cee25326;CloudNine Recruitment;Cloud and DevOps engineer openings;2027-11-01;{};upcoming;df25f4c3-79b8-40d5-b415-f9ae639ec07c;2027-09-08 10:05:20.034764+00
+647112cb-fefc-43f3-adbd-c6970da1f2d2;1c9071de-074d-4154-9df5-006196782d0f;DesignHub Creative Walk-in;UI/UX designer positions;2027-08-10;{};completed;df25f4c3-79b8-40d5-b415-f9ae639ec07c;2027-09-08 10:05:20.224877+00
+967f29dc-2caa-4acd-b99d-4602882577e6;bff40b51-34e3-4c01-9f4f-ba548af2952c;InnovateTech AI Challenge;AI/ML research and engineering roles;2027-11-15;{};upcoming;df25f4c3-79b8-40d5-b415-f9ae639ec07c;2027-09-08 10:05:20.387309+00
